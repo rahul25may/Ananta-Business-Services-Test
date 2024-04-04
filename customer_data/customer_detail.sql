@@ -8,4 +8,5 @@ CREATE TABLE IF NOT EXISTS customers(
     address VARCHAR(255) NOT NULL,
     email VARCHAR(255) NOT NULL,
     phone_no VARCHAR(10) NOT NULL,
+    product VARCHAR(255) NOT NULL
 );
