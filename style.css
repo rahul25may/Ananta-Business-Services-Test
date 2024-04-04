@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(#a7a4ea, #9515a0, #8eb5d3);
+}
+.cont{
+    width: 75%;
+    margin: 25px auto;
+    padding: 25px;
+}
+
+form{
+    display: grid;
+    gap: 12px;
+}
+
+input{
+    padding: 10px;
+    width: auto;
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+    background-color: #168116;
+    color: ghostwhite;
+    width: 50%;
+    margin: auto;
+}
+label{
+    font-weight: 900;
+    margin-top: 5px;
+}
+
+h2{
+    margin-bottom: 7px;
+}
